@@ -4,3 +4,5 @@
 develop language : Spring
 
 main developer : 현선, 수현
+
+database: mysql, JDK
